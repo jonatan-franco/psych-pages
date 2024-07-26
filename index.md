@@ -1,5 +1,7 @@
 ---
-title: Welcome to my blog
+title: Seja bem-vindo(a) ao meu blog
 ---
 
-Nesta página irei discutir sobre como montar curvas psicofísicas utilizando python.
+Nesta página irei mostrar como montar curvas psicofísicas, esquemas de reforçamento utilizando a linguagem de programação python. 
+
+
